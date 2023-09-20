@@ -33,7 +33,29 @@ samples: ['100V_post', '100V_pre', '102V_post', '102V_pre', '103V_post',
  '81V_pre', '82V_post', '82V_pre', '84V_post', '84V_pre', '86V_post', '86V_pre',
  '88V_post', '88V_pre', '89V_post', '89V_pre', '8V_post', '8V_pre', '90V_post',
  '90V_pre', '92V_post', '92V_pre', '93V_post', '93V_pre', '95V_post', '95V_pre',
- '96V_post', '96V_pre', '98V_post', '98V_pre', '99V_post', '99V_pre', '9V_post', '9V_pre']
+ '96V_post', '96V_pre', '98V_post', '98V_pre', '99V_post', '99V_pre', '9V_post', '9V_pre'
+ ]
+
+# samples: [ '16V_post', '17V_post',
+#  '17V_pre', '19V_post', '19V_pre', '20V_post', '20V_pre', '21V_post', '21V_pre',
+#  '23V_post', '23V_pre', '24V_post', '24V_pre', '28V_post', '28V_pre', '29V_post',
+#  '29V_pre', '2V_post', '2V_pre', '30V_post', '30V_pre', '31V_post', '31V_pre',
+#  '32V_post', '32V_pre', '33V_post', '33V_pre', '34V_post', '34V_pre', '35V_post',
+#  '35V_pre', '36V_pre', '3V_post', '3V_pre', '41V_post', '41V_pre', '42V_post',
+#  '42V_pre', '44V_post', '44V_pre', '46V_post', '46V_pre', '47V_post', '47V_pre',
+#  '48V_post', '48V_pre', '49V_post', '49V_pre', '50V_post', '50V_pre', '51V_post',
+#  '51V_pre', '52V_post', '52V_pre', '54V_post', '54V_pre', '55V_post', '55V_pre',
+#  '56V_post', '56V_pre', '57V_post', '57V_pre', '59V_post', '59V_pre', '60V_post',
+#  '60V_pre', '61V_post', '61V_pre', '62V_post', '62V_pre', '63V_post', '63V_pre',
+#  '64V_post', '64V_pre', '65V_post', '65V_pre', '66V_post', '66V_pre', '67V_post', '67V_pre',
+#  '68V_post', '68V_pre', '69V_post', '69V_pre', '70V_post', '70V_pre', '71V_post',
+#  '71V_pre', '73V_post', '73V_pre', '74V_post', '74V_pre', '76V_post', '76V_pre',
+#  '78V_post', '78V_pre', '79V_post', '79V_pre', '80V_post', '80V_pre', '81V_post',
+#  '81V_pre', '82V_post', '82V_pre', '84V_post', '84V_pre', '86V_post', '86V_pre',
+#  '88V_post', '88V_pre', '89V_post', '89V_pre', '8V_post', '8V_pre', '90V_post',
+#  '90V_pre', '92V_post', '92V_pre', '93V_post', '93V_pre', '95V_post', '95V_pre',
+#  '96V_post', '96V_pre', '98V_post', '98V_pre', '99V_post', '99V_pre', '9V_post', '9V_pre'
+#  ]
 
 genome: GRCh38
 kallisto_idx: /home/wdeng3/workspace/Codespace/universal_data/ref/GRCh38/gencode.v44.transcripts.kallisto.idx
